@@ -38,5 +38,5 @@
   <hr />
   <small><em>Last updated at:</em></small>
   <br />
-  <small><b>Sunday, 8 August 2021, 11:25:12 pm (SG Time)</b></small>
+  <small><b>Sunday, 8 August 2021, 11:25:58 pm (SG Time)</b></small>
 </div>
