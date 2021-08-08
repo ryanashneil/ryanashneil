@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center;">
-  <h2>Hello there! 👋 I'm ryan</h2>
+  <h2 style="border-bottom: none">Hello there! 👋 I'm ryan</h2>
   <hr />
   <p>Welcome to my github page! I'm a <b>full-stack developer</b> from 🇸🇬 Singapore!</p>
   <br />
@@ -38,5 +38,5 @@
   <hr />
   <small><em>Last updated at:</em></small>
   <br />
-  <small><b>Sunday, 8 August 2021, 11:20:44 pm (SG Time)</b></small>
+  <small><b>Sunday, 8 August 2021, 11:23:16 pm (SG Time)</b></small>
 </div>
