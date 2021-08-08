@@ -20,6 +20,7 @@
       <img alt="Go" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;go-%2300ADD8.svg?style&#x3D;for-the-badge&amp;logo&#x3D;go&amp;logoColor&#x3D;white"/>
       <img alt="Swift" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;swift-%23FA7343.svg?style&#x3D;for-the-badge&amp;logo&#x3D;swift&amp;logoColor&#x3D;white"/>
       <img alt="Kotlin" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;kotlin-%230095D5.svg?style&#x3D;for-the-badge&amp;logo&#x3D;kotlin&amp;logoColor&#x3D;white"/>
+      <img alt="Python" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;python-%2314354C.svg?style&#x3D;for-the-badge&amp;logo&#x3D;python&amp;logoColor&#x3D;white"/>
       <img alt="Java" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;java-%23ED8B00.svg?style&#x3D;for-the-badge&amp;logo&#x3D;java&amp;logoColor&#x3D;white"/>
       <img alt="Visual Studio Code" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;VisualStudioCode-0078d7.svg?style&#x3D;for-the-badge&amp;logo&#x3D;visual-studio-code&amp;logoColor&#x3D;white"/>
       <img alt="Figma" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;figma-%23F24E1E.svg?style&#x3D;for-the-badge&amp;logo&#x3D;figma&amp;logoColor&#x3D;white"/>
@@ -38,5 +39,5 @@
   <hr />
   <small><em>Last updated at:</em></small>
   <br />
-  <small><b>Sunday, 8 August 2021, 11:25:58 pm (SG Time)</b></small>
+  <small><b>Sunday, 8 August 2021, 11:27:53 pm (SG Time)</b></small>
 </div>
