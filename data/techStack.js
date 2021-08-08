@@ -1,0 +1,26 @@
+const techStack = [
+  { title: "AWS", img: "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"},
+  { title: "Docker", img: "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"},
+  { title: "Kubernetes", img: "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"},
+  { title: "Terraform", img: "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"},
+  { title: "Typescript", img: "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"},
+  { title: "ReactJS", img: "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"},
+  { title: "React Native", img: "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"},
+  { title: "Styled Components", img: "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"},
+  { title: "TailwindCSS", img: "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"},
+  { title: "NextJS", img: "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"},
+  { title: "NodeJS", img: "https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"},
+  { title: "NestJS", img: "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"},
+  { title: "GraphQL", img: "https://img.shields.io/badge/-GraphQL-%23DB7093?style=for-the-badge&logo=graphql"},
+  { title: "Go", img: "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"},
+  { title: "Swift", img: "https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"},
+  { title: "Kotlin", img: "https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"},
+  { title: "Java", img: "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"},
+  { title: "Visual Studio Code", img: "https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"},
+  { title: "Figma", img: "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"},
+  { title: "GitHub", img: "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"},
+  { title: "GitLab", img: "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"},
+  { title: "Bitbucket", img: "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"},
+]
+
+module.exports = techStack

@@ -1,0 +1,21 @@
+{
+  "name": "ryanashneil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanashneil/ryanashneil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanashneil/ryanashneil/issues"
+  },
+  "homepage": "https://github.com/ryanashneil/ryanashneil#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
