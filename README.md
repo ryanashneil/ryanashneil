@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center;">
-  <h2 style="border-bottom: none">Hello there! 👋 I'm ryan</h2>
+  <h3 style="border-bottom: none">Hello there! 👋 I'm ryan</h3>
   <hr />
-  <p>Welcome to my github page! I'm a <b>full-stack developer</b> from 🇸🇬 Singapore!</p>
+  <p>Welcome to my github page! I'm a <b>👨‍💻 full-stack developer</b> from 🇸🇬 Singapore!</p>
   <br />
   <h3>Tools that I use</h3>
       <img alt="AWS" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;AWS-%23FF9900.svg?style&#x3D;for-the-badge&amp;logo&#x3D;amazon-aws&amp;logoColor&#x3D;white"/>
@@ -38,5 +38,5 @@
   <hr />
   <small><em>Last updated at:</em></small>
   <br />
-  <small><b>Sunday, 8 August 2021, 11:23:16 pm (SG Time)</b></small>
+  <small><b>Sunday, 8 August 2021, 11:25:12 pm (SG Time)</b></small>
 </div>

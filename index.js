@@ -22,7 +22,7 @@ const dateOptions = {
 
 const DATA = {
   name: 'ryan',
-  role: 'full-stack developer',
+  role: '👨‍💻 full-stack developer',
   stack: techStack,
   contact: contact,
   location: '🇸🇬 Singapore',
