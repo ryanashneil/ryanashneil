@@ -1,9 +1,9 @@
-<div style="text-align: center;">
-  <h3>Hello there! 👋 I'm ryan</h3>
+<div align="center" style="text-align: center;">
+  <h2>Hello there! 👋 I'm ryan</h2>
   <hr />
   <p>Welcome to my github page! I'm a <b>full-stack developer</b> from 🇸🇬 Singapore!</p>
   <br />
-  <h4>Tools that I use</h4>
+  <h3>Tools that I use</h3>
       <img alt="AWS" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;AWS-%23FF9900.svg?style&#x3D;for-the-badge&amp;logo&#x3D;amazon-aws&amp;logoColor&#x3D;white"/>
       <img alt="Docker" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;docker-%230db7ed.svg?style&#x3D;for-the-badge&amp;logo&#x3D;docker&amp;logoColor&#x3D;white"/>
       <img alt="Kubernetes" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;kubernetes-%23326ce5.svg?style&#x3D;for-the-badge&amp;logo&#x3D;kubernetes&amp;logoColor&#x3D;white"/>
@@ -28,7 +28,7 @@
       <img alt="Bitbucket" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;bitbucket-%230047B3.svg?style&#x3D;for-the-badge&amp;logo&#x3D;bitbucket&amp;logoColor&#x3D;white"/>
   <br />
   <br />
-  <h4>You can find me at</h4>
+  <h3>You can find me at</h3>
       <a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;ryan-ashneil&#x2F;">
         <img alt="LinkedIn" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;linkedin-%230077B5.svg?style&#x3D;for-the-badge&amp;logo&#x3D;linkedin&amp;logoColor&#x3D;white"/>
       </a>
@@ -38,5 +38,5 @@
   <hr />
   <small><em>Last updated at:</em></small>
   <br />
-  <small><b>Sunday, 8 August 2021, 11:16:23 pm (SG Time)</b></small>
+  <small><b>Sunday, 8 August 2021, 11:20:44 pm (SG Time)</b></small>
 </div>
