@@ -6,19 +6,18 @@ const contact = require("./data/contact")
 
 const DIR = './template/main.mustache';
 
-const dateOptions = { 
-  weekday: 'long', 
+const dateOptions = {
+  weekday: 'long',
   year: 'numeric',
-  month: 'long', 
-  day: 'numeric', 
-  hour: '2-digit' ,
-  hour: '2-digit' ,
-  minute: '2-digit' ,
-  second: '2-digit' ,
-  second: '2-digit' ,
+  month: 'long',
+  day: 'numeric',
+  hour: '2-digit',
+  hour: '2-digit',
+  minute: '2-digit',
+  second: '2-digit',
+  second: '2-digit',
   hour12: true
 };
-
 
 const DATA = {
   name: 'ryan',
